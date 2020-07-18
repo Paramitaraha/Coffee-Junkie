@@ -1,0 +1,73 @@
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+html{
+    font-family: 'Grenze Gotisch', cursive;
+}
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.text{
+    color: brown;
+    padding-bottom: 1.5rem;
+}
+
+p{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+h1{
+    font-size: 2rem;
+    color: black;
+    padding-bottom: 1rem;
+}
+nav, ul, li{
+    font-size: 1.2rem;
+}
+.text-1, .text-3{
+    color: blueviolet;
+}
+.text-2, .text-4{
+    color: blue;
+}
+li, a:hover{
+    color: brown;
+}
+.img-background{
+    width: 80%;
+}
+h2, h3{
+    color: blue;
+}
+h2{
+    font-size: 2rem;
+    padding-bottom: 3rem;
+}
+p{
+    font-size: 1.6rem;
+    padding-bottom: 4rem;
+}
+
+h3{
+    font-size: 1.7rem;
+}
+h3:hover{
+    color: blueviolet;
+}
+a{
+    font-size: 1.8rem;
+    padding-bottom: 1rem;
+   
+}
+a:hover{
+    color: blueviolet;
+}
+
+footer{
+    color: rgb(183, 130, 231);
+    font-size: 1rem;
+}
